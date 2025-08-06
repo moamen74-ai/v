@@ -1,0 +1,30 @@
+body{
+  background-image: url(imgs/back.jpg);
+  background-size: cover;
+}
+.logo{
+  width:13vw ;
+  float: left;
+}
+.img{
+  width: 138px;
+}
+.hh{
+  text-align: center;
+  margin: 35px 8px 14px 0px;
+  }
+  .ha{
+    text-decoration: none;
+    color: black;
+  }
+
+
+
+
+
+fieldset{
+  width: 55vw;
+  margin: 80px 337px 0px 0px;
+  border-radius: 10%;
+
+}

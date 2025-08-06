@@ -1,0 +1,46 @@
+body{
+  background-image: url(imgs/back.jpg);
+  background-size: cover;
+}
+.hh{
+text-align: center;
+margin: 35px 8px 14px 0px;
+}
+
+
+.logo{
+  width:13vw ;
+  float: left;
+}
+.ha{
+  text-decoration: none;
+  color: black;
+}
+
+.img{
+  width: 138px;
+}
+
+fieldset{
+  border-radius: 5%;
+  margin: 17px -5px 0px 15px;
+}
+
+.a0{
+  
+  border-radius: 30px 30px 30px 30px;
+}
+.img1{
+  margin: -161px 754px 1px 273px;
+}
+.ul1{
+  list-style: none;
+}
+.a1{
+  border-radius: 30px 30px 30px 30px;
+ width: 246px;
+ margin: -85px 756px 0px 0px;
+}
+.b{
+  margin: 0px -3px -105px 817px;
+}

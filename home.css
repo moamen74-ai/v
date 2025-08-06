@@ -1,0 +1,186 @@
+body{
+  margin: 0;
+  background-color: beige;
+}
+.header{
+  
+height: 18vh;
+
+}
+.container{
+  width: 68vw;
+  
+  margin: auto;
+  float: right;
+}
+.logo{
+  width:30vw ;
+  float: left;
+}
+.header.logo{
+  width: 180px;
+  
+  
+}
+img{
+  width: 180px;
+}
+.back{
+  background-image: url("imgs/back.jpg");
+  background-size: cover;
+  background-position: center;
+  margin: -1px 0px -15px 0px;
+  
+}
+
+  
+  
+
+.header .navbar li{
+display:inline-block;
+
+
+}
+.header .navbar {
+  padding: 20px 30px;
+  background-image: url(imgs/nn-pg.png);
+background-size: cover;
+text-decoration: none;
+margin: 0px 30px 30px 30px;
+font-size: 30px;
+
+
+
+}
+.header .navbar .a{
+  margin: 9px 41px 30px -55px;
+  
+}
+.header .navbar .b{
+  margin: 17px 192px 28px 144px;
+  
+}
+a{
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+
+}
+h1{
+  text-align: center;
+  font-size: 52px;
+  color: black;
+  margin: 6px 400px 0px 579px;
+  padding: 0px 0px 0px 0px;
+}
+.a1{
+  border-radius: 50%;
+}
+.header2 .navbar2 li{
+  display:inline-block ;
+
+}
+.navbar2{
+  margin: 17px 17px 12px -228px;
+  padding: 20px 24px 26px 407px;
+}
+.juice{
+  padding: 14px 1px 15px 121px;
+}
+.header3 .navbar3 li{
+  display:inline-block ;
+
+}
+#b1{
+  margin: 20px 20px 20px 20px;
+}
+#b2{
+  margin: 26px 15px 20px 141px;
+}
+#b3{
+  margin: 22px 22px 36px 169px;
+
+}
+#b4{
+  margin: 23px 28px 26px 178px;
+}
+#c1{
+  margin: 24px 12px 31px -119px;
+}
+#c2{
+  margin: 20px 5px 20px -102px;
+}
+#c3{
+  margin: 20px 20px 20px -106px;
+}
+#c4{
+  margin:  21px 38px 20px -117px;
+}
+.d1{
+margin: 20px 20px 20px 20px ;
+}
+.e1{
+margin: 20px 20px 20px 20px;
+
+}
+.d2{
+margin: 20px 20px 20px 20px;
+}
+.e2{
+  margin: 20px 20px 20px 20px;
+}
+.d3{
+  margin: 20px 20px 20px 20px;
+}
+.e3{
+  margin: 20px 20px 20px 20px;
+}
+.d4{
+  margin: 20px 20px 20px 20px;
+}
+.e4{
+  margin: 20px 20px 20px 20px;
+}
+.d5{
+  margin: 20px 20px 20px 20px;
+}
+.e5{
+  margin: 20px 20px 20px 20px;
+}
+.navbar4{
+  
+  border: 40%;
+}
+
+.header4{
+  background-color: darkslategrey;
+  height: 30vh;
+}
+p{
+  display: inline;
+}
+.z1{
+  padding: 20px 30px 25px 86px;
+  margin: 20px 20px 20px 20px;
+}
+.z2{
+  padding: 20px 20px 20px 52px;
+  margin: 20px 20px 20px 20px;
+}
+.z3{
+  padding: 17px 36px 20px 51px;
+  margin: 20px 20px 20px 20px;
+}
+.z4{
+  padding: 16px 44px 20px 43px;
+  margin: 20px 20px 20px 20px;
+}
+.z5{
+  padding: 19px 25px 20px 69px;
+  margin: 20px 20px 20px 20px;
+}
+.foot li{
+  display: inline-block;
+}
+.foot{
+  padding: -10px 24px 26px 407px;
+}
